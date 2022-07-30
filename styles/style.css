@@ -16,7 +16,7 @@ body {
 /* -------------------Header----------------- */
 .container {
     background: #161616;
-    height: 606px;
+    height: 625px;
     margin-top: 50px;
     padding: 50px;
     border-radius: 30px;
@@ -292,6 +292,7 @@ footer {
         border-radius: 5px;
         margin-top: 40px;
         margin-left: 352px;
+        border: none;
 
 
     }
